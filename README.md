@@ -1,1 +1,2 @@
 # ApplicationOnWinForms
+## This is a WinForms application that connects to a database, generates SQL queries, and can interact with the database in several ways: it can retrieve data, insert data, and allows user authentication. It's also possible to access someone else's data if you know their login and password. I also added a background image, which is a GIF with constant glitch effects. I experimented with async/await, but not in the usual way—they were used for animating a spinning loading icon. 
